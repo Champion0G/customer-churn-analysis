@@ -26,5 +26,3 @@ Identified major churn drivers and provided actionable strategies to improve cus
 
 ![Dashboard](churn-dashboard.png)
 
-Dashboard=>
-<img width="1289" height="729" alt="image" src="https://github.com/user-attachments/assets/9306b4b5-2700-4ec3-8b5c-994940e683b9" />
