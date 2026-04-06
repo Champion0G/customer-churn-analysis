@@ -24,5 +24,7 @@ A telecom company is experiencing a high customer churn rate (~26.5%), impacting
 ## 📈 Outcome
 Identified major churn drivers and provided actionable strategies to improve customer retention.
 
+![Dashboard](churn-dashboard.png)
+
 Dashboard=>
 <img width="1289" height="729" alt="image" src="https://github.com/user-attachments/assets/9306b4b5-2700-4ec3-8b5c-994940e683b9" />
